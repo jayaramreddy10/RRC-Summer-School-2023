@@ -17,7 +17,9 @@ This summer school is mainly for the honors and Dual Degree students who joined 
 -------|-----------------------------------------------------|------------------|-----------------
 15/05  |  Introduction                                       | Prof. K. Madhava Krishna        | 
 16/05  |  Linear Algebra and Probability review              | Naren Akash         | 
-18/05  |  Coordinate System and Transformations              | Kallol Saha         | [Session-3 slides](lecture_slides/foundations/)
+18/05  |  Coordinate System and Transformations              | Kallol Saha         | [Session-3 slides](lecture_slides/foundations/Coordinate Systems and Transforms)
+19/05  |  Basics on Non-Linear Optimization                  | Vishal         | [Session-3 slides](lecture_slides/foundations/Calculus review)
+
 
 * Schedule will be updated regularly with slides/reference material as the session completes (by EOD).
 
