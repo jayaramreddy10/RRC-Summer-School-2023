@@ -20,7 +20,7 @@ This summer school is mainly for the honors and Dual Degree students who joined 
 18/05  |  Coordinate System and Transformations              | Kallol Saha         | [Session-3 slides](lecture_slides/foundations/Coordinate_Systems_and_Transforms)
 19/05  |  Basics on Non-Linear Optimization                  | Vishal         | [Session-4 slides](lecture_slides/foundations/Calculus_review/)
 19/05  |  Deep Learning - 1                                  | Yash           | [Session-5 slides](lecture_slides/Deep_learning/basics/)
-19/05  |  Deep Learning - 2                                  | Kallol         | [Session-6 slides](lecture_slides/Deep_learning/basics/session_6/) | [Session-6 code](https://colab.research.google.com/drive/1TbQlHo35ZCG1CpoaagApBEPNvay5OhI_#scrollTo=vO39zcvCx0qX)
+19/05  |  Deep Learning - 2                                  | Kallol         | [Session-6 slides](lecture_slides/Deep_learning/basics/session_6/) | [Session-6 code](https://colab.research.google.com/drive/1pfymiv8pUL7vWqdX7Wo-udZtPOaoC6yW#scrollTo=HEEjPQs09oPj)
 19/05  |  Deep Learning - 3                                  | Gaurav         | [Session-7 slides](lecture_slides/Deep_learning/basics/) | [Session-7 notebook 1](https://colab.research.google.com/drive/1rJOIbwZ1vXRVbtmWFQIBlc8b7n1sIrmN?usp=sharing),   [Session-7 notebook 2](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/36608d2d57f623ba3a623e0c947a8c3e/data_tutorial.ipynb)
 19/05  |  Deep Learning - 4                                  | Vishal         | [Session-8 slides](lecture_slides/Deep_learning/advanced/)
 
