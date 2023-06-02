@@ -22,7 +22,14 @@ This summer school is mainly for the honors and Dual Degree students who joined 
 20/05  |  Deep Learning - 1                                  | Yash           | [Session-5 slides](lecture_slides/Deep_learning/basics/session_5/)   |  [Session-5 code](lecture_slides/Deep_learning/basics/session_5/)  | 
 22/05  |  Deep Learning - 2                                  | Kallol         | [Session-6 slides](lecture_slides/Deep_learning/basics/session_6/) | [Session-6 code](https://colab.research.google.com/drive/1pfymiv8pUL7vWqdX7Wo-udZtPOaoC6yW#scrollTo=HEEjPQs09oPj)
 25/05  |  Deep Learning - 3                                  | Gaurav         | [Session-7 slides](lecture_slides/Deep_learning/basics/session_7/) | [Session-7 notebook 1](https://colab.research.google.com/drive/1rJOIbwZ1vXRVbtmWFQIBlc8b7n1sIrmN?usp=sharing),   [Session-7 notebook 2](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/36608d2d57f623ba3a623e0c947a8c3e/data_tutorial.ipynb) | [Session-7 Additional Material](lecture_slides/Deep_learning/basics/session_7/)
-26/05  |  Deep Learning - 4                                  | Vishal         | [Session-8 slides](lecture_slides/Deep_learning/advanced/)
+26/05  |  Deep Learning - 4                                  | Vishal         | [Session-8 slides](lecture_slides/Deep_learning/image_classification_and_VIT/)
+27/05  |  Deep Learning - 5                                  | Seshadri       | [Session-9 slides](lecture_slides/Deep_learning/advanced/session_9_object_detection)
+28/05  |  Deep Learning - 6                                  | Sanket         | [Session-10 slides](lecture_slides/Deep_learning/advanced/session_10_self_supervised_and_representation_learning)
+29/05  |  Multi View Geometry - 1 (Camera models and Camera Calibration)      | Pranjal         | [Session-11 slides](lecture_slides/Multi_view_Geometry/session_11_Camera_models_and_calibration/)
+30/05  |  Multi View Geometry - 2 (Feature matching, Homography and Image stitching)   | Jayaram       | [Session-12 slides](lecture_slides/Multi_view_Geometry/session_12_feature_matching_and_homography/)  |  [Session-12 notebook 1](lecture_slides/Multi_view_Geometry/session_12_feature_matching_and_homography/)
+31/05  |  Multi View Geometry - 3  (Epipolar Geometry)      | Gurkirat        | [Session-13 slides](lecture_slides/Multi_view_Geometry/session_13_epipolar_Geometry/)
+01/06  |  Multi View Geometry - 4  (SFM and Bundle Adjustment)      | Jayaram        | [Session-14 slides](lecture_slides/Multi_view_Geometry/session_14_SFM_and_Bundle_Adjustment/)
+
 
 * Schedule will be updated regularly with slides/reference material as the session completes (by EOD).
 
