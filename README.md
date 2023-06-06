@@ -31,6 +31,7 @@ This summer school is mainly for the honors and Dual Degree students who joined 
 01/06  |  Multi View Geometry - 4  (SFM and Bundle Adjustment)      | Jayaram        | [Session-14 slides](lecture_slides/Multi_view_Geometry/session_14_SFM_and_Bundle_Adjustment/)
 02/06  |  Multi View Geometry - 5  (Multi view Stereo - Dense reconstruction)      | Srimanth        | [Session-15 slides](lecture_slides/Multi_view_Geometry/session_15_Multi_view_streo/)
 05/06  |  SLAM - 1  (SLAM overview, SLAM frontend basics)      | Aneesh        | [Session-16 slides](lecture_slides/SLAM/session_16_SLAM_overview_and_frontend/)
+06/06  |  SLAM - 2  (SLAM frontend - advanced)      | Udit Singh        | [Session-17 slides](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/) | | [Session-17 Additional Material](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/)
 
 
 * Schedule will be updated regularly with slides/reference material as the session completes (by EOD).
