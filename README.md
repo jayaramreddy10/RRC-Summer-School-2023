@@ -31,7 +31,11 @@ This summer school is mainly for the honors and Dual Degree students who joined 
 01/06  |  Multi View Geometry - 4  (SFM and Bundle Adjustment)      | Jayaram        | [Session-14 slides](lecture_slides/Multi_view_Geometry/session_14_SFM_and_Bundle_Adjustment/)
 02/06  |  Multi View Geometry - 5  (Multi view Stereo - Dense reconstruction)      | Srimanth        | [Session-15 slides](lecture_slides/Multi_view_Geometry/session_15_Multi_view_streo/)
 05/06  |  SLAM - 1  (SLAM overview, SLAM frontend basics)      | Aneesh        | [Session-16 slides](lecture_slides/SLAM/session_16_SLAM_overview_and_frontend/)
-06/06  |  SLAM - 2  (SLAM frontend - advanced)      | Udit Singh        | [Session-17 slides](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/) | | [Session-17 Additional Material](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/)
+06/06  |  SLAM - 2  (SLAM frontend - advanced)      | Udit Singh        | [Session-17 slides](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/) | | [Session-18 Additional Material](lecture_slides/SLAM/session_17_advanced_SLAM_frontend/)
+07/06  |  SLAM - 3  (SLAM backend)      | Sai Shubodh        | [Session-18 slides](lecture_slides/SLAM/session_18_SLAM_backend/) | | [Session-18 Additional Material](lecture_slides/SLAM/session_18_SLAM_backend/)
+09/06  |  SLAM - 4  (SLAM hands on session - G2o and GTSAM)      | Ayush        | [Session-19 slides](lecture_slides/SLAM/session_19_SLAM_hands_on_session/) | [Session-19 code](lecture_slides/SLAM/session_19_SLAM_hands_on_session/) | 
+10/06  |  SLAM-5-Guest Lecture (Visual inertial Navigation Systems)       | Ayyappa Swamy       | [Session-20 slides](lecture_slides/SLAM/session_20_SLAM_VINS/) | | [Session-20 Additional Material](lecture_slides/SLAM/session_20_SLAM_VINS/)
+
 
 
 * Schedule will be updated regularly with slides/reference material as the session completes (by EOD).
